@@ -15,7 +15,11 @@ Checks for Email Access
 
 You can download the exe version in releases
 
-Made for Windows 10 (Linux systems doesn't work with it unless you remove all lines/fuction with windll)
+To run the Linux version download the .py and run it from command line with python3.8
+>First type cd /**YOUR DIRECTORY** 
+>Then type python3.8 OxygenX.py
+>Follow on screen instructions to start the checker
+
 # Support:
 If you need any help come on to https://discord.gg/brpuxE6 and I will do my best to support.
 
